@@ -1,2 +1,4 @@
 # ToDo
-dia 25/06 foi pedido um TODO feito em Next.js
+
+Originalmente o projeto era um protótipo em Next.js.
+Agora a aplicação será desenvolvida com NestJS.
